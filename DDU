@@ -1,0 +1,92 @@
+{
+  "Groutedata": [
+    {
+      "number": 0,
+      "route": "MT",
+      "destZ": "暫停服務",
+      "destY": "暫停服務",
+      "maxPZ": "1",
+      "priceZ1": "0.0",
+      "halfpriceZ1": "0.0",
+      "maxPY": "1",
+      "priceY1": "0.0",
+      "halfpriceY1": "0.0"
+    },
+    {
+      "number": 1,
+      "route": "86",
+      "destZ": "富海市中心",
+      "destY": "文輝邨",
+      "maxPZ": "1",
+      "priceZ1": "6.5",
+      "halfpriceZ1": "3.3",
+      "maxPY": "1",
+      "priceY1": "6.5",
+      "halfpriceY1": "3.3"
+    },
+    {
+      "number": 2,
+      "route": "36",
+      "destZ": "巴膠花園",
+      "destY": "伊利沙伯西區醫院",
+      "maxPZ": "1",
+      "priceZ1": "5.0",
+      "halfpriceZ1": "2.5",
+      "maxPY": "1",
+      "priceY1": "5.0",
+      "halfpriceY1": "2.5"
+    },
+    {
+      "number": 3,
+      "route": "48",
+      "destZ": "羽田海灣",
+      "destY": "二下路",
+      "maxPZ": "2",
+      "priceZ1": "12.3",
+      "halfpriceZ1": "6.4",
+      "priceZ2": "6.3",
+      "halfpriceZ2": "3.2",
+      "maxPY": "2",
+      "priceY1": "12.3",
+      "halfpriceY1": "6.4",
+      "priceY2": "8.2",
+      "halfpriceY2": "4.1"
+    },
+    {
+      "number": 4,
+      "route": "48E",
+      "destZ": "河畔碼頭",
+      "destY": "半山站",
+      "maxPZ": "1",
+      "priceZ1": "6.8",
+      "halfpriceZ1": "3.4",
+      "maxPY": "1",
+      "priceY1": "6.8",
+      "halfpriceY1": "3.4"
+    },
+        {
+      "number": 5,
+      "route": "22T",
+      "destZ": "恆馳碼頭",
+      "destY": "恆馳火車站",
+      "maxPZ": "1",
+      "priceZ1": "3.8",
+      "halfpriceZ1": "1.9",
+      "maxPY": "2",
+      "priceY1": "3.8",
+      "halfpriceY1": "1.9"
+    },
+        {
+      "number": 6,
+      "route": "26A",
+      "destZ": "氡漕灣",
+      "destY": "恆馳碼頭",
+      "maxPZ": "1",
+      "priceZ1": "6.8",
+      "halfpriceZ1": "3.4",
+      "maxPY": "1",
+      "priceY1": "6.8",
+      "halfpriceY1": "3.4"
+    }
+  ]
+  }
